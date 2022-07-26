@@ -54,7 +54,7 @@ sejin3319@gmail.com
 
 |         Date         |                              Content                              |                    Organization                    |
 | :----------------: | :----------------------------------------------------------: | :------------------------------------------------: |
-|  2022.03.17<br>~<br>2022.06.12  |     [Phonedy Guard 사회적 약자 보호 앱](https://github.com/phonedyguard/front_phonedyguard)    |               Dong-eui University                |
+|  2022.03.17<br>~<br>2022.06.12  |     [Phonedy Guard 사회적 약자 보호 앱](https://github.com/Heosejin98/front_phonedyguard)    |               Dong-eui University                |
 |  2022.03.17<br>~<br>2022.06.17  |     [실습실 예약 프로그램](https://github.com/RabReserveSystem/Rab_Reserve_System)     |               Dong-eui University                |
 |  2021.10.06<br>~<br>2021.12.04  |     [ROS 기반의 터틀봇 자율주행](https://github.com/ads0070/ROS-based-Turtlebot-Autonomous-Driving)     |               Dong-eui University                |
 |  2021.04.24<br>~<br>2021.06.05  |     [Waiter 음식점 예약 프로그램](https://github.com/Heosejin98/Waiter)    |               Dong-eui University                |
