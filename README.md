@@ -46,9 +46,5 @@ sejin3319@gmail.com
 > <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
 
-<br></br>
-# :star: Experience
-
-<h3 align="left">Project</h3>
 
 
